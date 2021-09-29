@@ -10,8 +10,8 @@ function sanj(){
     array.forEach(arr => {console.log(arr)});
 }
 
-function sup(){
-    console.log("Sup, Dawg");
+function hi(){
+    console.log("HI, dawg");
 }
 
 console.log("hello world")
