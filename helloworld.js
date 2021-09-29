@@ -10,6 +10,10 @@ function sanj(){
     array.forEach(arr => {console.log(arr)});
 }
 
+function sup(){
+    console.log("Sup, Dawg");
+}
+
 console.log("hello world")
 console.log(rinny())
 sanj();
